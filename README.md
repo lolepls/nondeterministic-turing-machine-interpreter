@@ -97,7 +97,7 @@ This means that the turing machine will compute sequentially the three strings, 
 
 ## Example of a turing machine structure file
 
-So, an extremely simple complete turing machine file looks like this:
+So, an extremely simple turing machine file looks like this:
 
 
 ```
@@ -111,7 +111,18 @@ max
 8
 run
 aaaaa
+aaaaaaaaa
+aaaba
+a
 ```
+This is a turing machine with 3 states (0, 1 and 2) that accepts every string of seven or less "a".
+The output of the algorithm with this machine given as input will be the following:
 
+```
+1
+U
+0
+1
+```
 
 
