@@ -6,8 +6,7 @@
 #define INPUT_SIZE 1
 #define MAXTRANSITION 1
 
-///PROVA FINALE API 2018///
-//Autore: Gioele Mombelli - Matricola 845899
+//Autore: Gioele Mombelli
 
 //---------------------------------------------//
 
