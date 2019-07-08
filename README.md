@@ -124,5 +124,8 @@ U
 0
 1
 ```
+# Test cases
 
+You can test the code with the inputs/outputs provided in the "tests" directory. 
+These tests have a good level of complexity and they stress the time/space used by the code.
 
