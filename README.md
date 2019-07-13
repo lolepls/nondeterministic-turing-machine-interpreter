@@ -14,7 +14,7 @@ The turing machine must be given to the algorithm via standard input, by specify
 U (if the turing machine hasn't completed the computation on a user-defined number of steps.)
 ```
 
-You can write your own turing machine on a simple .txt file, following the instruction given on the section "Input file structure", or you can just try the interpreter with some of the turing machines provided by me. You can find them in the "mt" folder.
+You can write your own turing machine on a simple .txt file, following the instruction given on the section "Input file structure", or you can just try the interpreter with some of the turing machines provided by me. You can find them in the "tests" folder.
 
 # Conventions 
 
